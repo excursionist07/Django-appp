@@ -1,4 +1,4 @@
-# PyShop
+# Django app
 Simple shop cart built with python and django, part of the Basic Python course by Mosh Hamedani.
 
 # How to run?
